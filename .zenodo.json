@@ -1,0 +1,23 @@
+{
+    "description": "ImageJ/Fiji macro script to analyse synaptic markers in immunofluorescent images of brain sections. Project in collaboration with Monica van den Berg (Bio-Imaging Lab, University of Antwerp). Analysis optimised for vesicular presynaptic markers.",
+    "creators": [
+        {
+            "orcid": "0000-0003-0357-7422",
+            "affiliation": "Laboratory of Cell Biology and Histology, University of Antwerp, Belgium - Antwerp Centre for Advanced Microscopy, Belgium - µNEURO Research Centre of Excellence, University of Antwerp, Antwerp, Belgium",
+            "name": "Verschuuren, Marlies"
+        },
+        {
+            "orcid": "0000-0003-0960-6781",
+            "affiliation": "Laboratory of Cell Biology and Histology, University of Antwerp, Belgium - Antwerp Centre for Advanced Microscopy, Belgium - µNEURO Research Centre of Excellence, University of Antwerp, Antwerp, Belgium",
+            "name": "De Vos, Winnok H."
+        }
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1186/s40478-025-02016-w",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
+    ]
+}
