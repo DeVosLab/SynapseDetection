@@ -1,7 +1,7 @@
 # SynapseDetection
 ImageJ/Fiji macro script to analyse synaptic markers in immunofluorescent images of brain sections. Project in collaboration with Monica van den Berg (Bio-Imaging Lab, University of Antwerp). Analysis optimised for vesicular presynaptic markers.
 
-###Publication
+### Publication
 Berg, M.v.d., Heymans, L., Toen, D. et al. Partial normalization of hippocampal oscillatory activity during sleep in TgF344-AD rats coincides with increased cholinergic synapses at early-plaque stage of Alzheimer’s disease. acta neuropathol commun 13, 96 (2025). https://doi.org/10.1186/s40478-025-02016-w
 
 ### Citation
